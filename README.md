@@ -11,7 +11,7 @@ Pada Project TP2 yang sudah saya kerjakan terdiri dari 2 halaman, yaitu halaman 
 Secara keseluruhan, halaman profil ini memberikan penggunaan antarmuka yang sederhana dengan avatar, sapaan, dan tombol navigasi untuk masuk ke dalam sistem atau mendapatkan bantuan.
 
 2. Halaman Login (Tahap 1)
-   - Header dan Tombol Close: Di bagian atas halaman, terdapat tombol close (X) di sebelah kiri atas yang memungkinkan pengguna kembali ke halaman sebelumnya.
+   - Header dan Tombol Close: Di bagian atas halaman, terdapat tombol close (X) di sebelah kiri atas yang memungkinkan pengguna kembali ke halaman sebelumnya yaitu ke halaman profil.
    - Judul dan Deskripsi: Terdapat judul "Masukkan nomor telepon anda" yang ditampilkan di bagian tengah atas halaman, diikuti dengan deskripsi singkat "Masuk dengan nomor telepon atau daftar baru jika Anda belum memiliki akun".
    - Input Nomor Telepon: Di bawah judul dan deskripsi, terdapat kotak input untuk memasukkan nomor telepon. Kotak input ini dilengkapi dengan pilihan kode negara yang dapat dipilih oleh pengguna.
    - Tombol Lanjut: Di bagian paling bawah halaman, terdapat tombol "LANJUT" yang memungkinkan pengguna melanjutkan proses login setelah memasukkan nomor telepon.
